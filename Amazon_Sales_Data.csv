@@ -1,0 +1,1717 @@
+Country,Item_Type,Order_Date,Order_ID,Order_Priority,Region,Sales_Channel,Ship_Date,Total_Cost,Total_Revenue,Units_Sold
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+,,,,,,,,,,
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Tuvalu,Baby Food,28-05-2010,669165933,H,Australia and Oceania,Offline,27-06-2010,1582243.5,2533654,9925
+Grenada,Cereal,22-08-2012,963881480,C,Central America and the Caribbean,Online,15-09-2012,328376.44,576782.8,2804
+Russia,Office Supplies,02-05-2014,341417157,L,Europe,Offline,08-05-2014,933903.84,1158502.59,1779
+Sao Tome and Principe,Fruits,20-06-2014,514321792,C,Sub-Saharan Africa,Online,05-07-2014,56065.84,75591.66,8102
+Rwanda,Office Supplies,01-02-2013,115456712,L,Sub-Saharan Africa,Offline,06-02-2013,2657347.52,3296425.02,5062
+Solomon Islands,Baby Food,04-02-2015,547995746,C,Australia and Oceania,Online,21-02-2015,474115.08,759202.72,2974
+Angola,Household,23-04-2011,135425221,M,India,Offline,27-04-2011,2104134.98,2798046.49,4187
+Burkina Faso,,17-07-2012,871543967,H,Sub-Saharan Africa,Online,27-07-2012,734896.26,1245112.92,8082
+Republic of the Congo,Personal Care,14-07-2015,770463311,M,Sub-Saharan Africa,Offline,25-08-2015,343986.9,496101.1,6070
+Senegal,Cereal,18-04-2014,616607081,H,India,Online,30-05-2014,772106.23,1356180.1,6593
+Kyrgyzstan,Vegetables,24-06-2011,814711606,H,Asia,Online,12-07-2011,11275.32,19103.44,124
+Cape Verde,Clothes,02-08-2014,939825713,H,Sub-Saharan Africa,Offline,19-08-2014,149381.12,455479.04,4168
+Bangladesh,Clothes,13-01-2017,187310731,L,Asia,Online,01-03-2017,296145.92,902980.64,8263
+Honduras,Household,08-02-2017,522840487,H,Central America and the Caribbean,Offline,13-02-2017,4509793.96,5997054.98,8974
+Mongolia,Personal Care,19-02-2014,832401311,C,Asia,Offline,23-02-2014,277739.67,400558.73,4901
+Bulgaria,Clothes,23-04-2012,972292029,M,Europe,Online,03-06-2012,59960.32,182825.44,1673
+Sri Lanka,Cosmetics,19-11-2016,419123971,M,Asia,Offline,18-12-2016,1830670.16,3039414.4,6952
+Cameroon,Beverages,01-04-2015,519820964,C,Sub-Saharan Africa,Offline,18-04-2015,172619.7,257653.5,5430
+Turkmenistan,Household,30-12-2010,441619336,L,Asia,Offline,20-01-2011,1924728.2,2559474.1,3830
+East Timor,,31-07-2012,322067916,L,Australia and Oceania,Online,11-09-2012,2154588.52,2492526.12,5908
+Norway,Baby Food,14-05-2014,819028031,L,Europe,Online,28-06-2014,1187679,1901836,7450
+Portugal,Baby Food,31-07-2015,860673511,H,Europe,Online,03-09-2015,202941.66,324971.44,1273
+Honduras,Snacks,30-06-2016,795490682,L,Central America and the Caribbean,Online,26-07-2016,216804,339490.5,2225
+New Zealand,Fruits,08-09-2014,142278373,H,Australia and Oceania,Online,04-10-2014,15134.04,20404.71,2187
+Moldova,Personal Care,07-05-2016,740147912,L,Europe,Online,10-05-2016,287316.9,414371.1,5070
+France,Cosmetics,22-05-2017,898523128,H,Europe,Online,05-06-2017,477943.95,793518,1815
+Kiribati,Fruits,13-10-2014,347140347,M,Australia and Oceania,Online,10-11-2014,37354.16,50363.34,5398
+Mali,Fruits,07-05-2010,686048400,L,Sub-Saharan Africa,Online,10-05-2010,40288.24,54319.26,5822
+Norway,Beverages,18-07-2014,435608613,C,Europe,Offline,30-07-2014,162891.96,243133.8,5124
+The Gambia,Household,26-05-2012,886494815,L,Sub-Saharan Africa,Offline,09-06-2012,1191019.8,1583799.9,2370
+Switzerland,Cosmetics,17-09-2012,249693334,M,Europe,Offline,20-10-2012,2280701.13,3786589.2,8661
+South Sudan,Personal Care,29-12-2013,406502997,C,Sub-Saharan Africa,Offline,28-01-2014,120423.75,173676.25,2125
+Australia,Office Supplies,27-10-2015,158535134,C,Australia and Oceania,Online,25-11-2015,1534983.04,1904138.04,2924
+Myanmar,Household,16-01-2015,177713572,H,Asia,Offline,01-03-2015,4145955,5513227.5,8250
+Djibouti,Snacks,25-02-2017,756274640,M,Sub-Saharan Africa,Online,25-02-2017,713942.88,1117953.66,7327
+Costa Rica,Personal Care,08-05-2017,456767165,L,Central America and the Caribbean,Offline,21-05-2017,363198.03,523807.57,6409
+Syria,Fruits,22-11-2011,162052476,L,Middle East and North Africa,Online,03-12-2011,26185.28,35304.72,3784
+The Gambia,Meat,14-01-2017,825304400,M,Sub-Saharan Africa,Online,23-01-2017,1738477.23,2011149.63,4767
+Brunei,Office Supplies,01-04-2012,320009267,L,Asia,Online,08-05-2012,3521431.68,4368316.68,6708
+Bulgaria,Office Supplies,16-02-2012,189965903,M,Europe,Online,28-02-2012,2093015.52,2596374.27,3987
+Niger,Personal Care,11-03-2017,699285638,H,Sub-Saharan Africa,Online,28-03-2017,170860.05,246415.95,3015
+Azerbaijan,Cosmetics,06-02-2010,382392299,M,Middle East and North Africa,Online,25-02-2010,1904929.22,3162704.8,7234
+The Gambia,Cereal,07-06-2012,994022214,H,Sub-Saharan Africa,Offline,08-06-2012,247921.87,435466.9,2117
+Slovakia,Vegetables,06-10-2012,759224212,H,Europe,Online,10-11-2012,15549.03,26344.26,171
+Myanmar,Clothes,14-11-2015,223359620,H,Asia,Online,18-11-2015,212531.2,648030.4,5930
+Comoros,Cereal,29-03-2016,902102267,H,Sub-Saharan Africa,Offline,29-04-2016,112659.82,197883.4,962
+Iceland,Cosmetics,31-12-2016,331438481,C,Europe,Online,31-12-2016,2334947.11,3876652.4,8867
+Switzerland,,23-12-2010,617667090,M,Europe,Online,31-01-2011,15470.91,22312.29,273
+Macedonia,Clothes,14-10-2014,787399423,C,Europe,Offline,14-11-2014,281057.28,856973.76,7842
+Mauritania,Office Supplies,11-01-2012,837559306,C,Sub-Saharan Africa,Offline,13-01-2012,664599.36,824431.86,1266
+Albania,Clothes,02-02-2010,385383069,C,Europe,Online,18-03-2010,81320.96,247956.32,2269
+Lesotho,Fruits,18-08-2013,918419539,L,Sub-Saharan Africa,Online,18-09-2013,66473.52,89623.98,9606
+Saudi Arabia,Cereal,25-03-2013,844530045,M,Middle East and North Africa,Online,28-03-2013,475817.93,835759.1,4063
+Sierra Leone,Office Supplies,26-11-2011,441888415,M,Sub-Saharan Africa,Offline,07-01-2012,1814786.72,2251232.97,3457
+Sao Tome and Principe,Fruits,17-09-2013,508980977,H,Sub-Saharan Africa,Offline,24-10-2013,52848.04,71253.21,7637
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
+Cote d'Ivoire,Clothes,08-06-2012,114606559,C,Sub-Saharan Africa,Online,27-06-2012,124794.88,380512.96,3482
+Fiji,Clothes,30-06-2010,647876489,C,Australia and Oceania,Offline,01-08-2010,354995.2,1082418.4,9905
+Austria,Cosmetics,23-02-2015,868214595,H,Europe,Offline,02-03-2015,749700.51,1244708.4,2847
+United Kingdom,,05-01-2012,955357205,L,Europe,Online,14-02-2012,141716.28,188452.14,282
+Djibouti,Cosmetics,07-04-2014,259353148,H,Sub-Saharan Africa,Offline,19-04-2014,1899925.95,3154398,7215
+Australia,Cereal,09-06-2013,450563752,H,Australia and Oceania,Offline,02-07-2013,79869.02,140287.4,682
+San Marino,Baby Food,26-06-2013,569662845,L,Europe,Online,01-07-2013,757245,1212580,4750
+Cameroon,Office Supplies,07-11-2011,177636754,M,Sub-Saharan Africa,Online,15-11-2011,2896729.28,3593376.78,5518
+Libya,Clothes,30-10-2010,705784308,H,Middle East and North Africa,Offline,17-11-2010,219197.44,668356.48,6116
+Haiti,Cosmetics,13-10-2013,505716836,H,Central America and the Caribbean,Offline,16-11-2013,448977.65,745426,1705
+Rwanda,Cosmetics,11-10-2013,699358165,H,Sub-Saharan Africa,Offline,25-11-2013,1178928.41,1957344.4,4477
+Gabon,Personal Care,08-07-2012,228944623,L,Sub-Saharan Africa,Offline,09-07-2012,490535.52,707454.88,8656
+Belize,Clothes,25-07-2016,807025039,M,Central America and the Caribbean,Offline,07-09-2016,197048.32,600821.44,5498
+Lithuania,Office Supplies,24-10-2010,166460740,H,Europe,Offline,17-11-2010,4350343.52,5396577.27,8287
+Madagascar,Clothes,25-04-2015,610425555,L,Sub-Saharan Africa,Offline,28-05-2015,263137.28,802333.76,7342
+Turkmenistan,Office Supplies,23-04-2013,462405812,M,Asia,Online,20-05-2013,2630049.6,3262562.1,5010
+Libya,Fruits,14-08-2015,816200339,L,Middle East and North Africa,Online,30-09-2015,4657.16,6279.09,673
+Democratic Republic of the Congo,Beverages,26-05-2011,585920464,C,Sub-Saharan Africa,Online,15-07-2011,182506.39,272410.45,5741
+Djibouti,Cereal,20-05-2017,555990016,H,Sub-Saharan Africa,Online,17-06-2017,1013704.16,1780539.2,8656
+Pakistan,Cosmetics,05-07-2013,231145322,L,Middle East and North Africa,Offline,16-08-2013,2604860.36,4324782.4,9892
+Mexico,Household,06-11-2014,986435210,C,North America,Offline,12-12-2014,3494663.16,4647149.58,6954
+Federated States of Micronesia,Beverages,28-10-2014,217221009,C,Australia and Oceania,Online,15-11-2014,298158.41,445033.55,9379
+Laos,Vegetables,15-09-2011,789176547,C,Asia,Offline,23-10-2011,339350.76,574951.92,3732
+Monaco,Baby Food,29-05-2012,688288152,H,Europe,Offline,02-06-2012,1373243.88,2198981.92,8614
+Samoa,Cosmetics,20-07-2013,670854651,H,Australia and Oceania,Online,07-08-2013,2542187.82,4220728.8,9654
+Spain,Household,21-10-2012,213487374,L,Europe,Offline,30-11-2012,2267963.02,3015902.51,4513
+Lebanon,Clothes,18-09-2012,663110148,L,Middle East and North Africa,Online,08-10-2012,282562.56,861563.52,7884
+Iran,Cosmetics,15-11-2016,286959302,H,Middle East and North Africa,Online,08-12-2016,1708748.37,2836990.8,6489
+Zambia,Snacks,04-01-2011,122583663,L,Sub-Saharan Africa,Online,05-01-2011,398042.4,623289.3,4085
+Kenya,Vegetables,18-03-2012,827844560,L,Sub-Saharan Africa,Online,07-04-2012,587135.01,994765.42,6457
+Mexico,Personal Care,17-02-2012,430915820,L,North America,Offline,20-03-2012,363934.74,524870.06,6422
+Sao Tome and Principe,Beverages,16-01-2011,180283772,C,Sub-Saharan Africa,Offline,21-01-2011,280673.91,418936.05,8829
+The Gambia,Baby Food,03-02-2014,494747245,M,Sub-Saharan Africa,Offline,20-03-2014,886215.78,1419101.52,5559
+Kuwait,Fruits,30-04-2012,513417565,M,Middle East and North Africa,Online,18-05-2012,3612.24,4870.26,522
+Slovenia,Beverages,23-10-2016,345718562,C,Europe,Offline,25-11-2016,148141.4,221117,4660
+Sierra Leone,Office Supplies,06-12-2016,621386563,H,Sub-Saharan Africa,Offline,14-12-2016,497662.08,617347.08,948
+Australia,Beverages,07-07-2014,240470397,H,Australia and Oceania,Offline,11-07-2014,298476.31,445508.05,9389
+Azerbaijan,Office Supplies,13-06-2012,423331391,M,Middle East and North Africa,Online,24-07-2012,1060944.16,1316095.41,2021
+Romania,Cosmetics,26-11-2010,660643374,H,Europe,Online,25-12-2010,2082940.3,3458252,7910
+Nicaragua,Beverages,08-02-2011,963392674,C,Central America and the Caribbean,Offline,21-03-2011,259279.24,387002.2,8156
+Mali,Clothes,26-07-2011,512878119,M,Sub-Saharan Africa,Online,03-09-2011,31825.92,97040.64,888
+Malaysia,Fruits,11-11-2011,810711038,L,Asia,Offline,28-12-2011,43367.64,58471.11,6267
+Sierra Leone,Vegetables,01-06-2016,728815257,C,Sub-Saharan Africa,Offline,29-06-2016,135031.05,228779.1,1485
+Mexico,Personal Care,30-07-2015,559427106,M,North America,Offline,08-08-2015,326815.89,471336.91,5767
+Mozambique,Household,10-02-2012,665095412,L,Sub-Saharan Africa,Offline,15-02-2012,2697132.18,3586605.09,5367
