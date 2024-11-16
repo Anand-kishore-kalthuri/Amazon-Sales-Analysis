@@ -74,11 +74,6 @@ The dataset used in this analysis contains the following fields:
 - **Data Source**: The dataset was provided in CSV format and imported into MySQL for querying and further analysis.
 
 
-## How to Use
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/amazon-sales-analysis.git
-
 
 Conclusion
 This Amazon Sales Analysis dashboard offers valuable insights into the company’s performance across regions, item types, and sales channels. By using MySQL for data management and Tableau for visualization, this project highlights the power of data analytics in uncovering key business insights.
